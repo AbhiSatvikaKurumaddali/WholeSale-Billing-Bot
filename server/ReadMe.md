@@ -51,8 +51,6 @@ server/
 
 ├── middleware/        # Auth guard and error handler — see middleware/README.md
 
-├── utils/               # Shared helper functions (currently empty)
-
 ├── seed.js               # Database seeding script
 
 └── server.js              # App entry point — middleware, routes, DB connection
